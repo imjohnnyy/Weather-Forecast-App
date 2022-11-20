@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-This is a simple weather forecast app that fetches data from OpenWeather’s current weather API once the user inputs a specific city name.</br>
+This is a simple weather forecast app that fetches data from OpenWeather’s current weather API once the user inputs a specific city name. The weather data of the city entered will then be displayed.</br>
 
 **Technologies used: React, HTML, CSS, OpenWeatherAPI**
 <br>
