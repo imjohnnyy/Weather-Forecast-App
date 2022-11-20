@@ -2,7 +2,7 @@
 
 This is a simple weather forecast app that uses Axios to fetch data from OpenWeather’s current weather API once the user inputs a specific city name.</br>
 
-**Technologies used: React, JavaScript**
+**Technologies used: React, HTML, CSS, OpenWeatherAPI**
 <br>
 </br>
 ## Screenshot Demo: 
